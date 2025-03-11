@@ -84,7 +84,7 @@
     <version>3.0.0-M7</version>
     <configuration>
         <systemPropertyVariables>
-            <cucumber.plugin>junit:target/octane-results/OctaneGherkinResults.xml</cucumber.plugin>
+            <cucumber.plugin>junit:target/surefire-reports/OctaneGherkinResults.xml</cucumber.plugin>
         </systemPropertyVariables>
     </configuration>
 </plugin>
